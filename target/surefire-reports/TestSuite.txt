@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 70.705 s <<< FAILURE! - in TestSuite
+loginDDT(com.inetBankingV2.testCases.TC_LoginDDT_002)  Time elapsed: 6.344 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetBankingV2.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:29)
+
+loginDDT(com.inetBankingV2.testCases.TC_LoginDDT_002)  Time elapsed: 5.808 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetBankingV2.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:29)
+
+loginDDT(com.inetBankingV2.testCases.TC_LoginDDT_002)  Time elapsed: 6.393 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetBankingV2.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:29)
+
+loginDDT(com.inetBankingV2.testCases.TC_LoginDDT_002)  Time elapsed: 6.094 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetBankingV2.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:29)
+
+loginDDT(com.inetBankingV2.testCases.TC_LoginDDT_002)  Time elapsed: 6.482 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetBankingV2.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:29)
+
+loginDDT(com.inetBankingV2.testCases.TC_LoginDDT_002)  Time elapsed: 5.875 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.inetBankingV2.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:29)
+
